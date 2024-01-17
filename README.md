@@ -1,7 +1,7 @@
-#Tahu Mata Bionicle Scrap
+# Tahu Mata Bionicle Scrap
 This mod adds Tahu Mata Bionicle as a scrap you can sell or keep on your spaceship :). 
 
-#Assets
+# Assets
 Original Tahu asset by RealSteelFan200. Decimated, textured by me.
 
 Original asset:
