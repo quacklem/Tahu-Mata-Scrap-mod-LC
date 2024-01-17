@@ -1,6 +1,9 @@
 # Tahu Mata Bionicle Scrap
 This mod adds Tahu Mata Bionicle as a scrap you can sell or keep on your spaceship :). 
 
+Thunderstore page:
+https://thunderstore.io/c/lethal-company/p/quack_lem/TahuMataMod/
+
 # Assets
 Original Tahu asset by RealSteelFan200. Decimated, textured by me.
 
